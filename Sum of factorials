@@ -1,0 +1,19 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+f=1
+n=int(input("Enter number"))
+sum=0
+for i in range(1,n+1):
+    f=f*i 
+    sum+=f
+print(sum)
+
+output:
+
+Enter number
+77
+147093731191520017915111951726939395484863652896205980410648566245268270960253582401634937653402336528920420940313
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
